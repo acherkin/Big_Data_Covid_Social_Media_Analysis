@@ -13,3 +13,8 @@ https://github.com/owid/covid-19-data/tree/master/public/data/testing
 Hospitalizations Dataset:
 https://github.com/owid/covid-19-data/tree/master/public/data/hospitalizations
 
+-------------------------------
+Dev Resources
+
+Docker images: https://github.com/Marcel-Jan/docker-hadoop-spark
+
