@@ -45,18 +45,18 @@ hdfs dfs -mkdir -p /data/
 ```
 hdfs dfs -put [file name] /data/[file name]
 ```
-###Run MapReduceDaily
+### Run MapReduceDaily
 ```
 hadoop jar FinalProjectLoadData.jar
 ```
-###If upload unseccessful
-Run the CountTweets.java file on host (src > main > java > Backup > CountTweets.java)
-May need to modify paths. Make sure the .tsv covid post data is in one directory.
-Do not use the clean dataset.
-After, a .csv file is generated
+### If upload unseccessful
+### Run the CountTweets.java file on host (src > main > java > Backup > CountTweets.java)
+### May need to modify paths. Make sure the .tsv covid post data is in one directory.
+### Do not use the clean dataset.
+### After, a .csv file is generated
 
-Upload to docker
-Upload to hdfs
+### Upload to docker
+### Upload to hdfs
 
 
 ## Spark
